@@ -1,0 +1,7 @@
+C:\Users\Tyler Bain\source\repos\GLife\bin\Debug\GLife.exe.config
+C:\Users\Tyler Bain\source\repos\GLife\bin\Debug\GLife.exe
+C:\Users\Tyler Bain\source\repos\GLife\bin\Debug\GLife.pdb
+C:\Users\Tyler Bain\source\repos\GLife\obj\Debug\GLife.csproj.CoreCompileInputs.cache
+C:\Users\Tyler Bain\source\repos\GLife\obj\Debug\GLife.exe
+C:\Users\Tyler Bain\source\repos\GLife\obj\Debug\GLife.pdb
+C:\Users\Tyler Bain\source\repos\GLife\obj\Debug\GLife.csprojAssemblyReference.cache
